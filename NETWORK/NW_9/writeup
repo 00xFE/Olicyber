@@ -1,0 +1,2 @@
+inserisci le chiavi TLS andando in Modifica>Preferenze>Protocols>TLS nel campo giusto.
+Una volta decifrato tutto leggi l'header della richiesta GET

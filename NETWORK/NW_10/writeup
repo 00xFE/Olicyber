@@ -1,0 +1,2 @@
+filtra per HTTP, controlla la richiesta POST. Viene mandata una PNG. 
+Copia l'hex grezzo e fallo diventare immagine da Cyberchef 
