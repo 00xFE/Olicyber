@@ -1,0 +1,4 @@
+apri con gdb
+run
+p/d $rax
+

@@ -1,0 +1,1 @@
+ltrace -e access ./sw-10 

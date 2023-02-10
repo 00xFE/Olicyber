@@ -1,0 +1,1 @@
+strace -f ./sw-11 

@@ -1,0 +1,4 @@
+apri con gdb
+run
+x/f $rbp-4
+

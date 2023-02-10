@@ -1,0 +1,5 @@
+apri con gdb
+breakpoint a sleep: b *0x0000000000401173
+run
+set {long}0x404038=0xdeadc0debadc0ffe
+continue

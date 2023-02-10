@@ -1,0 +1,4 @@
+apri il programma con gdb
+premi run per avviarlo
+poi quando raggiunge il breakpoint scrivi: info registers
+concatena i primi 3 registri esadecimali senza 0x per avere la flag
