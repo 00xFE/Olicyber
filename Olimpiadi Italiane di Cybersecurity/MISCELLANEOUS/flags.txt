@@ -1,1 +1,3 @@
 flag{th3_f45t35t_f1ng3r_1n_cyb3rsp4c3}
+flag{la_pazienza_ha_un_limite}
+flag{PNRFNE_ZR!-y0u_G07_iT_r1ghT!}
