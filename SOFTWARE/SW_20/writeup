@@ -1,0 +1,4 @@
+challenge ardua perchè ho sprecato ore a usare un comando (shellcraft.amd64.linux.cat('flag.txt')) 
+che in locale funziona ma a quanto pare in remoto no
+
+l'exploit spawna una shell, divertiti
