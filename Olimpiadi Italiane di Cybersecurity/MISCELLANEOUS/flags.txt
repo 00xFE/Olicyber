@@ -1,3 +1,16 @@
 flag{th3_f45t35t_f1ng3r_1n_cyb3rsp4c3}
 flag{la_pazienza_ha_un_limite}
 flag{PNRFNE_ZR!-y0u_G07_iT_r1ghT!}
+flag{h1dd3n_by_7h3_5un}
+flag{prisencolinensinainciusol}
+flag{Hex1sntFunn1}
+flag{b1nw4lk_i5_ur_fr13nd===}
+flag{Wh4t_th3_fl4g}
+flag{Un0_z1p_d3n7r0_un0_z1p_1mp0551b1l3!}
+flag{ViaOliCyber2021}
+flag{1snt3asyUnzipTh4t}
+MANCANTE (Infinite Server)
+MANCANTE (Based and encoded)
+flag{0h_n0_my_4p1_k3y}
+MANCANTE (Villa Pisani)
+MANCANTE (Into the Linux rabbit hole)
