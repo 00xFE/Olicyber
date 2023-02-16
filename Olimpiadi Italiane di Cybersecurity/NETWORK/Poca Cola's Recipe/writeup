@@ -1,0 +1,4 @@
+finalmente una chall carina
+ho filtrato le richieste POST con : http.request.method == "POST"
+ho visto che tra le foto di gattini è stato inviato uno zip contenente la ricetta
+è password protected, non va rockyou, dunque si cerca la password tra i pacchetti con la ricerca di wireshark

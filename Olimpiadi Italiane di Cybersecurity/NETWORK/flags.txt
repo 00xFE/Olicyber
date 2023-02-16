@@ -1,0 +1,15 @@
+(Useless)
+flag{with_UDP_computer_applications_can_send_messages_in_this_c4s3_r3f3rr3d_t0_as_datagr4ms}
+flag{7h3Y_5Ay_y0u_c4N_5N1ff_^-^}
+flag{1sto3asy}
+flag{C4ts4r3Cut3}
+flag{l'1n6r3d13n73_536r370_è_am0r3..e_p4t4t3}
+flag{n1c3_0n3_jul13!Th4ts_w0rdw4ng!}
+(DNS e-mail security)
+flag{tls_is_really_hard}
+(Quantum Transport Layer)
+(That's a lot of F's)
+flag{T00_MUCH_CH405}
+flag{i7s_l1k3_My_iP0ds_s7ucK_oN_R3P14y}
+flag{kapellmeister}
+(Super Secret Agent 0x42)

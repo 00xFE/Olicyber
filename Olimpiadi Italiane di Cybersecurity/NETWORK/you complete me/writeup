@@ -1,0 +1,3 @@
+BELLISSIMA QUESTA
+for lettera in {a..z}; do echo -n "$lettera: "; grep -c "^$lettera" words.txt; done
+usa questo per trivellare la flag, devi analizzare le frequenze e piano piano sgami le lettere
