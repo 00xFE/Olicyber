@@ -1,0 +1,1 @@
+analizza codice fonte, usa funzione AES_decrypt definita in esso con pw criptata e chiave in chiaro per trovare pw per login

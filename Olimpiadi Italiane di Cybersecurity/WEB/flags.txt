@@ -1,0 +1,6 @@
+flag{s0no_1nc4strato_nell_h3ader}
+flag{n3v3r_tru5t_c00k1e5}
+flag{d0n7_u53_cl13n7_51d3_ch3ck5!!}
+flag{Gu355_y0u_f0und_7h3_r0b075}
+flag{you_can_t_see_me_in_the_browser}
+flag{r1ck_4st1ey_c14ssic_m3m3}
