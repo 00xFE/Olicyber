@@ -1,0 +1,3 @@
+curl -X POST http://zio-frank.challs.olicyber.it/admin/init per creare un admin nel DB
+con l'username restituito crea un nuovo utente con password che decidi tu
+Logga con username e password
