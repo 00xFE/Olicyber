@@ -5,7 +5,7 @@ flag{Gu355_y0u_f0und_7h3_r0b075}
 flag{you_can_t_see_me_in_the_browser}
 flag{r1ck_4st1ey_c14ssic_m3m3}
 A TOO small reminder...
-ConfuseMe
+flag{0mg_php_c0mp4r150n_r34lly_5uck5}
 flag{0h_r34lly_d1d_u_f0rg0t_t0_r3m0v3_th3_d0t_g1t_r3p0?!}
 flag{0h_n0_y0u_c4n_m0d1fy_urls}
 Cookie Monster Army (al momento del commit è rotta)
@@ -14,3 +14,4 @@ flag{s1mpl3r_th4n_3xp3ct3d_but_ruby_1s_c00l_y34h}
 flag{gr4zi3_p3r_l_4cqu1st0}
 flag{l1ght_1s_f0r_n00bs_d4rk_1s_f0r_h4ck3rs}
 flag{r3g3x_byp455_php_5tyl3}
+flag{strcmp_1s_n0t_s0_s4f3}
